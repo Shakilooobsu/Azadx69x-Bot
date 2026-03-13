@@ -1,4 +1,4 @@
-! index.js
+/
 @author NTKhang
 ! Goat-Bot-V2 main file
 ! Auto-detects Render environment for 24/7 operation
