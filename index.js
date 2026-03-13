@@ -1,4 +1,4 @@
-/**
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
  * @author NTKhang
  * Official source: https://github.com/ntkhang03/Goat-Bot-V2
  */
