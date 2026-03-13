@@ -1,6 +1,6 @@
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+* process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
  * @author NTKhang
- * Official source: https://github.com/ntkhang03/Goat-Bot-V2
+ * Official source :
  */
 
 const { spawn } = require("child_process");
